@@ -1,0 +1,13 @@
+PROJECT TITLE: TDEE 
+PURPOSE OF PROJECT: To calculate your Total Daily Energy Expenditure (TDEE) by taking in some factors.
+VERSION or DATE: 01/16/2023 
+AUTHORS: Charles Sokolove 
+USER INSTRUCTIONS: Run the program.
+****************************************** P M R ****************************************** 
+<+S>: 
+    The calculations were simple, and I am very comfortable with using Scanners now.
+    I also learned how to use Enums + getter methods, and its a very helpful function of Java.
+<-S>: 
+    There were some issues with the if/else blocks and having uninitialized variables.
+********************************************************************************************
+In the future: I will use simpler code that I can ensure works.
