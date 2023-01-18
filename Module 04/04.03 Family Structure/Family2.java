@@ -8,14 +8,9 @@ import java.util.Scanner;
  * @author Charles Sokolove
  * @version 01/16/2023
  */
-public class Family {
+public class Family2 {
     public static void main(String[] args) throws IOException {
-        System.out.print("Enter file name: ");
-        Scanner fileSelector = new Scanner(System.in);
-        String selected = fileSelector.nextLine();
-        fileSelector.close();
-
-        File fileName = new File(selected);
+        File fileName = new File("test1-2.txt");
 
         Scanner inFile = new Scanner(fileName);
 

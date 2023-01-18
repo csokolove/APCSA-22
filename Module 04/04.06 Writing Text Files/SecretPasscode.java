@@ -39,7 +39,7 @@ public class SecretPasscode
 		
 
         // when the user is done, close the text file so that it can be re-opened and read
-outFile.close();
+// outFile.close();
 
         // Read passwords back from text file and display to the screen
 
