@@ -1,0 +1,12 @@
+PROJECT TITLE: Family 
+PURPOSE OF PROJECT: To take a file as input, and reads the file to analyze the average of the sample set of the gender of kids.
+VERSION or DATE: 01/16/2023 
+AUTHORS: Charles Sokolove 
+USER INSTRUCTIONS: Run the program.
+****************************************** P M R ****************************************** 
+<+S>: 
+    I got used to using the String method "equals()" and variable incrementers.
+<-S>: 
+    Issue with the round method I had created previously.
+********************************************************************************************
+In the future: I will continue to use file readers with Scanners as they are very helpful.
