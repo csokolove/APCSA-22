@@ -1,0 +1,12 @@
+PROJECT TITLE: BuyMovieTickets 
+PURPOSE OF PROJECT: To simulate buying movie tickets.
+VERSION or DATE: 01/17/2023 
+AUTHORS: Charles Sokolove 
+USER INSTRUCTIONS: Run the program.
+****************************************** P M R ****************************************** 
+<+S>: 
+    I was able to efficiently work with strings (parsing, checking, converting, etc.)
+<-S>: 
+    The logical operators became a little confusing in the while loop
+********************************************************************************************
+In the future: I will work on assignments in the order they are assigned to stay on track.
