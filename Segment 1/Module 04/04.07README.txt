@@ -1,0 +1,12 @@
+PROJECT TITLE: MathTrick
+PURPOSE OF PROJECT: To convert a random number to the same String.
+VERSION or DATE: 01/18/2023 
+AUTHORS: Charles Sokolove 
+USER INSTRUCTIONS: Run the program.
+****************************************** P M R ****************************************** 
+<+S>: 
+    I got used to using the Random method and figuring out how to do cool math with Java.
+<-S>: 
+    Struggled initially with figuring out how to make the number in the specific range.
+********************************************************************************************
+In the future: I will continue to get used to using the Random method and generating specific numbers.

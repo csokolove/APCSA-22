@@ -1,0 +1,22 @@
+PROJECT TITLE: CurrencyV1
+PURPOSE OF PROJECT: 
+VERSION or DATE: 11/02/22
+HOW TO START THE PROGRAM: Run the program
+AUTHORS: Charles Sokolove
+USER INSTRUCTIONS: To add more countries, call the method "logExpenditures" and fill in the required parameters
+
+****************************************** P M R ******************************************
+<+S>: Implemented methods and used global variables to make the project more efficient, and
+    avoiding writing countless sysout lines.
+Interesting project with many real world applications.
+
+
+<-S>: Figuring out the math for the souveneir calculations was a little difficult at first,
+    but then I was able to understand.
+
+*******************************************************************************************
+In the future: I will continue to use methods to make writing my programs more dynamic 
+    and efficient.
+
+Resources:
+Used the https://finance.google.com currency converter for conversion rates

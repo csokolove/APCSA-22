@@ -1,0 +1,22 @@
+PROJECT TITLE: BMI
+PURPOSE OF PROJECT: Calculate the BMI of a given person
+VERSION or DATE: 01/06/2023
+HOW TO START THE PROGRAM: Run the program
+AUTHORS: Charles Sokolove
+
+****************************************** P M R ******************************************
+<+S>: I used static methods to make my code more readable. This helped to avoid documenting
+    everything, as the method name makes it self explanatory.
+I was able to use a method to round to a specific amount of decimal places that was roughly
+    accurate.
+Rather than using magic numbers for conversion factors, I made them variables so that it 
+    made sense what they were.
+I'm getting better at making my output look neat and clean.
+
+
+<-S>: I had issues with really long doubles because of their decimal places, and it took a
+    while to find a solution.
+
+*******************************************************************************************
+In the future: I will refer back to lessons, and do research to find the best ways to do 
+things.

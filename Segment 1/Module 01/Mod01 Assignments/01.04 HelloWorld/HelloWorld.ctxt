@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HelloWorld
+comment0.text=\r\n\ A\ basic\ printing\ program.\r\n\r\n\ @author\ Charles\ Sokolove\r\n\ @version\ September\ 06,\ 2022\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

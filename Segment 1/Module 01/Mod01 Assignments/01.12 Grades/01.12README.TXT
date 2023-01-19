@@ -1,0 +1,16 @@
+PROJECT TITLE: GradesV2
+PURPOSE OF PROJECT: A simple grade calculator
+VERSION or DATE: 10/31/22
+HOW TO START THE PROGRAM: Run the program
+AUTHORS: Charles Sokolove
+USER INSTRUCTIONS: Run the program
+
+****************************************** P M R ******************************************
+<+S>: I used a for loop to avoid repeating lines of code for printing the statements
+
+
+<-S>: I played around with rounding numbers for the averages, however in the end couldn't get it to
+work as I had hoped.
+
+*******************************************************************************************
+In the future: I will play around with my code to try and learn unique ways to do things

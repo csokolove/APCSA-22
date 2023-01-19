@@ -1,0 +1,18 @@
+PROJECT TITLE: Calculations
+PURPOSE OF PROJECT: The Calculations class performs addition, subtraction, multiplication, 
+    division, and modulus operations on integers and decimals.
+VERSION or DATE: 10/26/2022
+HOW TO START THE PROGRAM: Run the main method.
+AUTHORS: Charles Sokolove
+USER INSTRUCTIONS: Run the program.
+
+****************************************** P M R ******************************************
+<+S>: Writing variables and the program comes very naturally and is easily understood.
+The math is very intuitive and follows the same rules as arithmetic.
+
+<-S>: Concatention is a little confusing and is tricky to get the hang of at first, using
+    variables and such.
+
+*******************************************************************************************
+In the future: I will stay more on track with my work and work through the lessons, rather
+    than skipping around

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GradesV2
+comment0.text=\r\n\ A\ simple\ grade\ calculator.\r\n\r\n\ @author\ Charlie\ Sokolove\r\n\ @version\ 10/31/22\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

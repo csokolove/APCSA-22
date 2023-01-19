@@ -1,0 +1,18 @@
+PROJECT TITLE: PyTheorem
+PURPOSE OF PROJECT: Calculate the hypotenuse of a triangle from 2 random side lengths
+VERSION or DATE: 11/02/22
+HOW TO START THE PROGRAM: Run the program
+AUTHORS: Charles Sokolove
+USER INSTRUCTIONS: To create a triangle, call the "newTriangle" method which will generate side lengths + calculate hypotenuse.
+
+****************************************** P M R ******************************************
+<+S>: I continued to play around with methods, and finding ways to do creative things with 
+    them.
+I became more comfortable with the Java Math class
+
+
+<-S>: I forgot to add the main method in the beginning which caused errors I didn't know the
+    origin of.
+
+*******************************************************************************************
+In the future: I will ensure I have the main method written before starting coding.
